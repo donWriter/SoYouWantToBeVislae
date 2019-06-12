@@ -16,7 +16,7 @@ So you want to be a vislae.
 *-> step_one
 
 === learn_about_orders ===
-# IMAGE: TOG.jpg
+# IMAGE: TOR.jpg
 *[Why you would want to be in the Order of Vances... ]
 -> why_be_vance
 *[Why you would want to be in the Order of Weavers... ]
