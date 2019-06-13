@@ -16,7 +16,7 @@ So you want to be a vislae.
 *-> step_one
 
 === learn_about_orders ===
-# IMAGE: TOR.jpg
+# IMAGE: TOR.JPG
 *[Why you would want to be in the Order of Vances... ]
 -> why_be_vance
 *[Why you would want to be in the Order of Weavers... ]
@@ -31,7 +31,7 @@ So you want to be a vislae.
 
 
 === learn_about_heart ===
-# IMAGE: DA.jpg
+# IMAGE: DA.JPG
 There are four types of emotional beings. These are Galant, Empath, Stoic, and Ardent.
 <b>Galant:</b> You are nimble in thought and deed. Quick thinking
 means you’re good on your feet, ready with an extemporaneous
@@ -71,26 +71,54 @@ temperament. Your senses are what you trust.
 -> count_off_creation
 
 === learn_about_forte ===
-# IMAGE: TU.jpg
-Phew. This is a big topic. I say head over to the Key and see what these are about. Their names say a lot but really understanding what each does may prove more usful for this big decision.
+# IMAGE: TU.JPG
+Phew. This is a big topic. Vislae sling spells, and walk with angels, demons, and gods. They each have a gift. Some say a blessing from Visla, other say the magic within come manifest. Yet others believe its the soul's power that the body borrows. Whatever it is, it belongs to you. Sometimes you may come upon another with a similar gift. You may even likely be kindred spirits. But the gift is yours. Make no mistake you are different, sometimes in mysterious ways.
+
+So you have this power and it's for you to foster or abandon at will.  However, the more powerful you are in your Forte the more godlike in everything you do. 
+
+
+I say head over to the Key and see what these are about. Their names say a lot but really understanding what each does may prove more usful for this big decision.
 # IMAGE: Forte_list.jpg
 If these don't quite strike your fancy ask around. You may find there are other ways Vislae alter reality.
 
 -> count_off_creation
 
 === learn_about_soul ===
-# IMAGE: KA.jpg
+# IMAGE: KA.JPG
+There are 13 souls. Don't get me wrong, your soul is yours too, but your soul speaks to one of 13 Soul Guardians. That connection is so profound that when revealed to others who share the same Guardian they form Sororal societies in secret. There are nary a stronger bond than between soul sisters.
 
+The thirteen soul allegiances are:
+✦ The Silver Star
+✦ The Watcher
+✦ The Child
+✦ The Lady
+✦ The Flame
+✦ The Doctor
+✦ The Old Man
+✦ The Eye
+✦ The Blade
+✦ The Abyss
+✦ The Hammer
+✦ The Whisper
+✦ The Dancer
 -> count_off_creation
 
 === learn_about_foundation ===
-# IMAGE: LA.jpg
-
+# IMAGE: LA.JPG
+The eight different foundations are:
+✦ Established
+✦ Itinerant
+✦ Connected
+✦ Eremetic
+✦ Medicant
+✦ Iconoclastic
+✦ Stalwart
+✦ Bizarre
 -> count_off_creation
 
 === learn_about_character_arcs ===
-# IMAGE: VER.jpg
-
+# IMAGE: VER.JPG
+There are a number of Character Arcs that drive the character forever forward and the story with it. You choose an arc for free at first. You may have any practical number of arcs, a number of goals for your character to pursue. For additional character arcs you must spend Acumen. As you progress through the steps of a character arc you earn Acumen, Joy, and Despair.
 -> count_off_creation
 
 === why_be_vance ===
